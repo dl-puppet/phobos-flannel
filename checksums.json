@@ -1,0 +1,22 @@
+{
+  "Gemfile": "c098a4106b38090913e1e06ea33d410b",
+  "LICENSE": "7d423e80a51a0320567fc3faa3ce3209",
+  "README.md": "65fb21b458ff1e86f0ee60550b2cc07b",
+  "Rakefile": "f7208c7cac8e3e03b2d5c069e3445afb",
+  "manifests/config.pp": "5de7e982ed2dbc0968c47cca0790e4e5",
+  "manifests/etcd_key.pp": "490071672a37da1a0134fa159ff5cba8",
+  "manifests/init.pp": "b582f3f0684efbe02b4d19de06435cad",
+  "manifests/install.pp": "e78b319b571b8e614fdfd268dbdceb2f",
+  "manifests/params.pp": "9ba53d1db0b2b542d14f81c03e3d3a1a",
+  "manifests/service.pp": "e76f1149719654afb546f092d6918d21",
+  "metadata.json": "a11c3b554de5e8b0da25587d7a6a6a7e",
+  "spec/classes/init_spec.rb": "16c6ca4b7b4c7549cdc92d5015593ac8",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "57c5d43fbb1aca1d030681d3070c66d2",
+  "templates/default/flanneld.erb": "ec63773910b29cd611e486ad30379d1c",
+  "templates/etcd_network_definition.erb": "02409f44810e5d6d5d3b773d25575f28",
+  "templates/journald.conf.erb": "1fb0b1ca86855fdfc23409cf0b971216",
+  "templates/service_flannel.conf": "5894cbfe538baf0a3af42e80628c68b6",
+  "templates/sysconfig/flanneld.erb": "c18553aa2211d52e208c787ada02812f",
+  "tests/init.pp": "401f4e8e83e22c84802489d08ec99d4e"
+}
